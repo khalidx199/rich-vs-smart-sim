@@ -1,0 +1,340 @@
+000 [found] Mismar (مسمار) founded by the poor kingdom, linked to Mill City (مدينة الطاحونة)
+000 [waste] The rich build a palace in Statue City (مدينة التمثال) for 200 gold
+000 [first_build] First palace built in Statue City (مدينة التمثال) (rich)
+000 [waste] The rich build a statue in Statue City (مدينة التمثال) for 150 gold
+000 [first_build] First statue built in Statue City (مدينة التمثال) (rich)
+000 [first_build] First palace built in Mill City (مدينة الطاحونة) (poor)
+003 [found] Burghi (برغي) founded by the poor kingdom, linked to Mill City (مدينة الطاحونة)
+006 [found] Lamaa (لمعة) founded by the rich kingdom, linked to Lamaa (لمعة)
+009 [invention] INVENTION: Wells by the poor kingdom in Mill City (مدينة الطاحونة) (year 9): wells on desert sites, +500 water each
+010 [found] Fikra (فكرة) founded by the poor kingdom, linked to Mill City (مدينة الطاحونة)
+014 [found] Fanous (فانوس) founded by the poor kingdom, linked to Mill City (مدينة الطاحونة)
+017 [flood] River floods; fertile silt spreads near (77,20)
+018 [leader_death] The poor Ra'is (Warraq) dies; Ra'is Aalim succeeds
+019 [found] Mitraqa (مطرقة) founded by the poor kingdom, linked to Mill City (مدينة الطاحونة)
+024 [invention] INVENTION: Irrigation canals by the poor kingdom in Mill City (مدينة الطاحونة) (year 24): farms within 3 tiles of water turn green (110 food)
+025 [drought] Drought strikes the region around (120,56) for 4 years
+025 [invention] INVENTION: Wells by the rich kingdom in Statue City (مدينة التمثال) (year 25): wells on desert sites, +500 water each
+025 [found] Kashkha (كشخة) founded by the rich kingdom, linked to Statue City (مدينة التمثال)
+028 [locust] Locust swarm eats the fields near (143,17)
+028 [leader_death] The rich Sultan (Mansur) dies; Sultan Hamdan succeeds
+030 [found] Satl (سطل) founded by the poor kingdom, linked to Burghi (برغي)
+031 [overtake] The poor now out-earn the rich: 123 against 120 gold a year
+032 [drought] Drought strikes the region around (31,50) for 6 years
+033 [found] Fashkhara (فشخرة) founded by the rich kingdom, linked to Statue City (مدينة التمثال)
+033 [found] Qirba (قربة) founded by the poor kingdom, linked to Mill City (مدينة الطاحونة)
+035 [leader_death] The poor Ra'is (Aalim) dies; Ra'is Mirza succeeds
+036 [flood] River floods; fertile silt spreads near (79,51)
+037 [invention] INVENTION: Granaries by the poor kingdom in Mill City (مدينة الطاحونة) (year 37): granaries raise the food stock cap
+037 [first_build] First granary built in Mitraqa (مطرقة) (poor)
+038 [found] Fakhfakha (فخفخة) founded by the rich kingdom, linked to Statue City (مدينة التمثال)
+040 [found] Bakra (بكرة) founded by the poor kingdom, linked to Burghi (برغي)
+043 [found] Dallou'a (دلّوعة) founded by the rich kingdom, linked to Statue City (مدينة التمثال)
+046 [found] Ajala (عجلة) founded by the poor kingdom, linked to Mismar (مسمار)
+048 [found] Bakhshish (بخشيش) founded by the rich kingdom, linked to Statue City (مدينة التمثال)
+050 [invention] INVENTION: Waterwheel by the poor kingdom in Mill City (مدينة الطاحونة) (year 50): waterwheels on river banks, +35 food per city
+050 [first_build] First waterwheel built in Satl (سطل) (poor)
+051 [locust] Locust swarm eats the fields near (60,41)
+053 [flood] River floods; fertile silt spreads near (77,21)
+054 [found] Dananir (دنانير) founded by the rich kingdom, linked to Statue City (مدينة التمثال)
+056 [found] Mistara (مسطرة) founded by the poor kingdom, linked to Mismar (مسمار)
+060 [found] Dhahabiyya (ذهبية) founded by the rich kingdom, linked to Statue City (مدينة التمثال)
+061 [invention] INVENTION: Irrigation canals by the rich kingdom in Statue City (مدينة التمثال) (year 61): farms within 3 tiles of water turn green (110 food)
+062 [leader_death] The poor Ra'is (Mirza) dies; Ra'is Idris succeeds
+062 [found] Bousla (بوصلة) founded by the poor kingdom, linked to Bousla (بوصلة)
+063 [invention] INVENTION: Windmill by the poor kingdom in Mill City (مدينة الطاحونة) (year 63): windmills on the plateau, +25 food per city
+065 [leader_death] The rich Sultan (Hamdan) dies; Sultan Nasir succeeds
+065 [waste] The rich court holds a lavish feast and spends 679 gold on it
+066 [found] Kanza (كنزة) founded by the rich kingdom, linked to Kashkha (كشخة)
+069 [found] Sabika (سبيكة) founded by the rich kingdom, linked to Fashkhara (فشخرة)
+069 [found] Mimhaa (ممحاة) founded by the poor kingdom, linked to Burghi (برغي)
+072 [contact] First contact: the borders of the two kingdoms meet
+073 [found] Qalam (قلم) founded by the poor kingdom, linked to Ajala (عجلة)
+074 [incident] Border incident near Nafoura (نافورة) and Fanous (فانوس)
+074 [insult] The rich Sultan insults the other court
+075 [leader_death] The rich Sultan (Nasir) dies; Sultan Fadil succeeds
+077 [invention] INVENTION: Paper by the poor kingdom in Mill City (مدينة الطاحونة) (year 77): libraries and bazaars; research bonus per library
+077 [found] Mir'aa (مرآة) founded by the rich kingdom, linked to Fakhfakha (فخفخة)
+077 [found] Sullam (سلّم) founded by the poor kingdom, linked to Burghi (برغي)
+079 [locust] Locust swarm eats the fields near (142,15)
+080 [war_start] Poor declare war on the rich kingdom
+080 [hire] The rich hire 8000 mercenaries under General Hadid at Statue City (مدينة التمثال) for 480 gold
+085 [flood] River floods; fertile silt spreads near (76,36)
+086 [capture] Qalam (قلم) falls to the rich kingdom
+088 [invention] INVENTION: Granaries by the rich kingdom in Statue City (مدينة التمثال) (year 88): granaries raise the food stock cap
+092 [invention] INVENTION: Astronomy calendar by the poor kingdom in Mill City (مدينة الطاحونة) (year 92): observatories, +10% harvest in the city
+096 [flood] River floods; fertile silt spreads near (82,71)
+096 [truce] A truce is signed; the kingdoms withdraw to their cities for 25 years
+097 [drought] Drought strikes the region around (66,19) for 5 years
+097 [leader_death] The poor Ra'is (Idris) dies; Ra'is Sami succeeds
+098 [incident] Border incident near Fanous (فانوس) and Satl (سطل)
+102 [drought] Drought strikes the region around (19,27) for 6 years
+108 [invention] INVENTION: Compass and coastal ships by the poor kingdom in Mill City (مدينة الطاحونة) (year 108): harbours, ships, caravanserai: trade income
+108 [found] Minshar (منشار) founded by the poor kingdom, linked to Minshar (منشار)
+108 [first_build] First caravanserai built in Mill City (مدينة الطاحونة) (poor)
+113 [leader_death] The rich Sultan (Fadil) dies; Sultan Rashid succeeds
+113 [dispute] Dispute over a gold or oil deposit at (76,62)
+113 [first_build] First mine built in Minshar (منشار) (poor)
+114 [incident] Border incident near Fanous (فانوس) and Satl (سطل)
+116 [drought] Drought strikes the region around (101,60) for 4 years
+117 [invention] INVENTION: Waterwheel by the rich kingdom in Statue City (مدينة التمثال) (year 117): waterwheels on river banks, +35 food per city
+118 [insult] The poor Ra'is insults the other court
+125 [leader_death] The poor Ra'is (Sami) dies; Ra'is Taqi succeeds
+126 [incident] Border incident near Fanous (فانوس) and Satl (سطل)
+126 [invention] INVENTION: Iron working by the poor kingdom in Mill City (مدينة الطاحونة) (year 126): iron mines, weapons +25%
+131 [drought] Drought strikes the region around (119,75) for 3 years
+132 [leader_death] The rich Sultan (Rashid) dies; Sultan Ziyad succeeds
+136 [insult] The rich Sultan insults the other court
+136 [theft] The rich steal the secret of Windmill from Mill City (مدينة الطاحونة)
+140 [flood] River floods; fertile silt spreads near (76,35)
+140 [dispute] Dispute over a gold or oil deposit at (76,62)
+140 [war_start] Poor declare war on the rich kingdom
+142 [locust] Locust swarm eats the fields near (119,24)
+144 [invention] INVENTION: Composite bows by the poor kingdom in Mill City (مدينة الطاحونة) (year 144): archers +0.4 power in field battles
+150 [flood] River floods; fertile silt spreads near (82,70)
+151 [plague] Plague spreads from Fashkhara (فشخرة)
+151 [leader_death] The poor Ra'is (Taqi) dies; Ra'is Hakim succeeds
+154 [leader_death] The rich Sultan (Ziyad) dies; Sultan Qays succeeds
+155 [flood] River floods; fertile silt spreads near (77,42)
+157 [invention] INVENTION: Paper by the rich kingdom in Statue City (مدينة التمثال) (year 157): libraries and bazaars; research bonus per library
+160 [theft] The rich steal the secret of Astronomy calendar from Mill City (مدينة الطاحونة)
+162 [drought] Drought strikes the region around (37,27) for 4 years
+163 [invention] INVENTION: Engineering of walls by the poor kingdom in Mill City (مدينة الطاحونة) (year 163): city walls (up to 3) and towers
+163 [capture] Nafoura (نافورة) falls to the poor kingdom
+165 [siege_start] Siege of Bakhshish (بخشيش) begins: poor army of 720 men under Captain Anwar
+166 [hire] The rich hire 8000 mercenaries under General Dhiyab at Statue City (مدينة التمثال) for 480 gold
+166 [battle] field battle at Bakhshish (بخشيش): Captain Anwar (poor, 560 men) is repulsed by General Dhiyab (rich, 9660 men); losses 280 and 1220 men; deciding factor: numbers
+167 [drought] Drought strikes the region around (101,29) for 6 years
+167 [battle] field battle at Nafoura (نافورة): Captain Anwar (poor, 280 men) is repulsed by General Dhiyab (rich, 8420 men); losses 140 and 980 men; deciding factor: numbers
+167 [siege_end] Siege of Bakhshish (بخشيش) ends after 1 rounds: failed
+172 [locust] Locust swarm eats the fields near (146,36)
+173 [locust] Locust swarm eats the fields near (78,53)
+174 [hire] The rich hire 8000 mercenaries under General Hadid at Qalam (قلم) for 480 gold
+175 [battle] field battle at Nafoura (نافورة): General Dhiyab (rich, 2820 men) defeats Captain Yasir (poor, 1520 men); losses 820 and 480 men; deciding factor: numbers
+175 [capture] Minshar (منشار) surrenders to the rich kingdom
+176 [battle] field battle at Nafoura (نافورة): General Dhiyab (rich, 2000 men) is repulsed by Captain Nizar (poor, 1480 men); losses 620 and 440 men; deciding factor: tech:bows, tech:iron
+177 [battle] field battle at Statue City (مدينة التمثال): General Dhiyab (rich, 1380 men) defeats Captain Nizar (poor, 1060 men); losses 400 and 340 men; deciding factor: numbers
+180 [leader_death] The poor Ra'is (Hakim) dies; Ra'is Nadir succeeds
+180 [siege_start] Siege of Nafoura (نافورة) begins: rich army of 980 men under General Dhiyab
+180 [battle] field battle at Mill City (مدينة الطاحونة): General Sarim (rich, 2620 men) defeats Captain Yasir (poor, 1060 men); losses 640 and 380 men; deciding factor: numbers
+181 [battle] field battle at Mill City (مدينة الطاحونة): General Sarim (rich, 1980 men) defeats Captain Yasir (poor, 660 men); losses 460 and 260 men; deciding factor: numbers
+182 [battle] field battle at Mill City (مدينة الطاحونة): General Sarim (rich, 1520 men) defeats Captain Yasir (poor, 400 men); losses 340 and 160 men; deciding factor: numbers
+183 [hire] The rich hire 8000 mercenaries under General Hadid at Qalam (قلم) for 480 gold
+185 [battle] field battle at Mill City (مدينة الطاحونة): General Sarim (rich, 760 men) defeats Captain Nizar (poor, 280 men); losses 180 and 100 men; deciding factor: numbers
+186 [invention] INVENTION: Trebuchets by the poor kingdom in Mill City (مدينة الطاحونة) (year 186): siege workshops; trebuchets break walls
+186 [battle] field battle at Mill City (مدينة الطاحونة): General Sarim (rich, 600 men) defeats Captain Nizar (poor, 160 men); losses 120 and 80 men; deciding factor: numbers
+186 [capital_fall] The capital Mill City (مدينة الطاحونة) falls to the rich kingdom; the poor court flees
+186 [capture] Mill City (مدينة الطاحونة) surrenders to the rich kingdom
+187 [growth] Mill City (مدينة الطاحونة) grows into a city (1147 people)
+187 [waste] The rich build a statue in Mill City (مدينة الطاحونة) for 150 gold
+187 [first_build] First observatory built in Mill City (مدينة الطاحونة) (rich)
+187 [first_build] First library built in Mill City (مدينة الطاحونة) (rich)
+187 [capture] Nafoura (نافورة) surrenders to the rich kingdom
+188 [first_build] First windmill built in Mill City (مدينة الطاحونة) (rich)
+188 [siege_start] Siege of Qirba (قربة) begins: rich army of 440 men under General Hadid
+189 [capture] Qirba (قربة) surrenders to the rich kingdom
+193 [siege_end] Siege of Mismar (مسمار) ends after 4 rounds: captured
+193 [capture] Mismar (مسمار) surrenders to the rich kingdom
+194 [locust] Locust swarm eats the fields near (25,71)
+194 [battle] field battle at Burghi (برغي): General Sarim (rich, 280 men) is repulsed by Captain Yasir (poor, 460 men); losses 120 and 100 men; deciding factor: numbers
+195 [flood] River floods; fertile silt spreads near (76,25)
+195 [siege_start] Siege of Qirba (قربة) begins: poor army of 360 men under Captain Yasir
+196 [battle] ambush battle at Satl (سطل): Captain Tamim (poor, 1260 men) defeats General Sarim (rich, 180 men); losses 160 and 100 men; deciding factor: surprise
+196 [capture] Qirba (قربة) falls to the poor kingdom
+197 [capture] Burghi (برغي) surrenders to the rich kingdom
+201 [capture] Qirba (قربة) surrenders to the rich kingdom
+202 [first_build] First library built in Fanous (فانوس) (poor)
+202 [siege_start] Siege of Fanous (فانوس) begins: rich army of 860 men under General Hadid
+203 [hire] The rich hire 8000 mercenaries under General Sarim at Statue City (مدينة التمثال) for 480 gold
+203 [first_build] First windmill built in Fanous (فانوس) (poor)
+204 [siege_start] Siege of Qirba (قربة) begins: poor army of 460 men under Captain Yasir
+204 [siege_end] Siege of Qirba (قربة) ends after 1 rounds: captured
+204 [capture] Qirba (قربة) falls to the poor kingdom
+205 [capital_fall] The capital Fanous (فانوس) falls to the rich kingdom; the poor court flees
+205 [capture] Fanous (فانوس) surrenders to the rich kingdom
+206 [locust] Locust swarm eats the fields near (21,80)
+210 [leader_death] The rich Sultan (Qays) dies; Sultan Jabir succeeds
+211 [invention] INVENTION: Compass and coastal ships by the rich kingdom in Statue City (مدينة التمثال) (year 211): harbours, ships, caravanserai: trade income
+211 [first_build] First caravanserai built in Statue City (مدينة التمثال) (rich)
+211 [capital_fall] The capital Statue City (مدينة التمثال) falls to the poor kingdom; the rich court flees
+211 [capture] Statue City (مدينة التمثال) falls to the poor kingdom
+212 [growth] Statue City (مدينة التمثال) grows into a city (1697 people)
+212 [first_build] First siege_workshop built in Statue City (مدينة التمثال) (poor)
+212 [first_build] First bazaar built in Statue City (مدينة التمثال) (poor)
+213 [first_build] First granary built in Hiyaat (هياط) (rich)
+213 [capture] Ajala (عجلة) surrenders to the rich kingdom
+215 [leader_death] The poor Ra'is (Nadir) dies; Ra'is Warraq succeeds
+216 [truce] A truce is signed; the kingdoms withdraw to their cities for 25 years
+216 [siege_end] Siege of Qirba (قربة) ends after 2 rounds: lifted
+216 [siege_end] Siege of Bakra (بكرة) ends after 2 rounds: lifted
+217 [found] Zanbil (زنبيل) founded by the poor kingdom, linked to Daftar (دفتر)
+218 [incident] Border incident near Mismar (مسمار) and Qirba (قربة)
+221 [insult] The rich Sultan insults the other court
+221 [militia] The poor raise 460 militia men from their surplus
+224 [invention] INVENTION: Medicine by the poor kingdom in Statue City (مدينة التمثال) (year 224): plague losses halved
+226 [incident] Border incident near Mismar (مسمار) and Qirba (قربة)
+226 [found] Ibriq (إبريق) founded by the poor kingdom, linked to Daftar (دفتر)
+228 [endowment] The poor endow schools: 85 gold buys 4 research points
+229 [found] Doulab (دولاب) founded by the poor kingdom, linked to Daftar (دفتر)
+233 [found] Sanduq (صندوق) founded by the poor kingdom, linked to Mill City (مدينة الطاحونة)
+235 [leader_death] The poor Ra'is (Warraq) dies; Ra'is Aalim succeeds
+236 [incident] Border incident near Mismar (مسمار) and Qirba (قربة)
+242 [locust] Locust swarm eats the fields near (33,77)
+242 [insult] The rich Sultan insults the other court
+244 [drought] Drought strikes the region around (104,51) for 3 years
+246 [leader_death] The rich Sultan (Jabir) dies; Sultan Mansur succeeds
+246 [incident] Border incident near Mismar (مسمار) and Qirba (قربة)
+248 [war_start] Rich declare war on the poor kingdom
+248 [siege_start] Siege of Bakra (بكرة) begins: rich army of 1920 men under General Sarim
+249 [plague] Plague spreads from Bakhshish (بخشيش)
+253 [drought] Drought strikes the region around (71,25) for 6 years
+253 [capture] Bakra (بكرة) surrenders to the rich kingdom
+255 [leader_death] The poor Ra'is (Aalim) dies; Ra'is Mirza succeeds
+255 [capture] Bakhshish (بخشيش) falls to the poor kingdom
+257 [flood] River floods; fertile silt spreads near (82,69)
+259 [capture] Lamaa (لمعة) falls to the poor kingdom
+260 [invention] INVENTION: Canal network by the poor kingdom in Statue City (مدينة التمثال) (year 260): canals; the desert turns green (irrigation range 6)
+260 [siege_start] Siege of Dhahabiyya (ذهبية) begins: poor army of 440 men under Captain Tamim
+265 [drought] Drought strikes the region around (139,40) for 3 years
+265 [locust] Locust swarm eats the fields near (102,70)
+265 [invention] INVENTION: Iron working by the rich kingdom in Mill City (مدينة الطاحونة) (year 265): iron mines, weapons +25%
+266 [siege_end] Siege of Dhahabiyya (ذهبية) ends after 6 rounds: captured
+266 [capture] Dhahabiyya (ذهبية) falls to the poor kingdom
+269 [leader_death] The poor Ra'is (Mirza) dies; Ra'is Idris succeeds
+271 [truce] A truce is signed; the kingdoms withdraw to their cities for 25 years
+273 [locust] Locust swarm eats the fields near (83,51)
+278 [leader_death] The rich Sultan (Mansur) dies; Sultan Hamdan succeeds
+278 [dispute] Dispute over a gold or oil deposit at (104,41)
+280 [dispute] Dispute over a gold or oil deposit at (104,41)
+281 [incident] Border incident near Mismar (مسمار) and Qirba (قربة)
+286 [leader_death] The poor Ra'is (Idris) dies; Ra'is Sami succeeds
+289 [leader_death] The poor Ra'is (Sami) dies; Ra'is Taqi succeeds
+292 [invention] INVENTION: Steel by the poor kingdom in Statue City (مدينة التمثال) (year 292): weapons +20%
+293 [flood] River floods; fertile silt spreads near (76,37)
+294 [incident] Border incident near Mismar (مسمار) and Qirba (قربة)
+294 [theft] The rich steal the secret of Composite bows from Statue City (مدينة التمثال)
+300 [leader_death] The rich Sultan (Hamdan) dies; Sultan Nasir succeeds
+302 [insult] The rich Sultan insults the other court
+303 [war_start] Rich declare war on the poor kingdom
+303 [battle] field battle at Mistara (مسطرة): General Sarim (rich, 300 men) is repulsed by Captain Tamim (poor, 460 men); losses 120 and 100 men; deciding factor: numbers
+310 [hire] The rich hire 8000 mercenaries under General Dhiyab at Mill City (مدينة الطاحونة) for 480 gold
+310 [battle] field battle at Qirba (قربة): Captain Yasir (poor, 220 men) is repulsed by General Dhiyab (rich, 9420 men); losses 120 and 1040 men; deciding factor: numbers
+311 [siege_start] Siege of Mill City (مدينة الطاحونة) begins: poor army of 460 men under Captain Yasir
+311 [capital_fall] The capital Mill City (مدينة الطاحونة) falls to the poor kingdom; the rich court flees
+311 [capture] Mill City (مدينة الطاحونة) falls to the poor kingdom
+311 [capture] Dananir (دنانير) falls to the poor kingdom
+312 [first_build] First wall built in Mill City (مدينة الطاحونة) (poor)
+317 [capture] Hiyaat (هياط) falls to the poor kingdom
+318 [capture] Qirba (قربة) surrenders to the rich kingdom
+320 [siege_end] Siege of Fakhfakha (فخفخة) ends after 2 rounds: failed
+325 [leader_death] The rich Sultan (Nasir) dies; Sultan Fadil succeeds
+326 [leader_death] The poor Ra'is (Taqi) dies; Ra'is Hakim succeeds
+327 [hire] The rich hire 8000 mercenaries under General Dhiyab at Mismar (مسمار) for 480 gold
+333 [siege_start] Siege of Fakhfakha (فخفخة) begins: poor army of 1680 men under Captain Tamim
+334 [capture] Mistara (مسطرة) surrenders to the rich kingdom
+337 [capture] Fakhfakha (فخفخة) falls to the poor kingdom
+339 [leader_death] The rich Sultan (Fadil) dies; Sultan Rashid succeeds
+340 [capture] Mir'aa (مرآة) falls to the poor kingdom
+343 [siege_start] Siege of Nafoura (نافورة) begins: poor army of 420 men under Captain Tamim
+343 [capture] Habl (حبل) surrenders to the rich kingdom
+345 [siege_end] Siege of Nafoura (نافورة) ends after 2 rounds: captured
+345 [capture] Nafoura (نافورة) falls to the poor kingdom
+347 [flood] River floods; fertile silt spreads near (77,21)
+347 [endowment] The poor endow schools: 212 gold buys 10 research points
+351 [siege_start] Siege of Kashkha (كشخة) begins: poor army of 1680 men under Captain Yasir
+352 [truce] A truce is signed; the kingdoms withdraw to their cities for 25 years
+352 [siege_end] Siege of Qalam (قلم) ends after 5 rounds: lifted
+354 [incident] Border incident near Mistara (مسطرة) and Satl (سطل)
+357 [invention] INVENTION: Engineering of walls by the rich kingdom in Fanous (فانوس) (year 357): city walls (up to 3) and towers
+361 [flood] River floods; fertile silt spreads near (81,63)
+362 [incident] Border incident near Mistara (مسطرة) and Satl (سطل)
+371 [incident] Border incident near Mistara (مسطرة) and Satl (سطل)
+373 [leader_death] The rich Sultan (Rashid) dies; Sultan Ziyad succeeds
+377 [war_start] Rich declare war on the poor kingdom
+377 [capture] Kashkha (كشخة) falls to the poor kingdom
+378 [siege_start] Siege of Kanza (كنزة) begins: poor army of 960 men under Captain Tamim
+380 [siege_end] Siege of Kanza (كنزة) ends after 2 rounds: captured
+380 [capture] Kanza (كنزة) falls to the poor kingdom
+382 [leader_death] The poor Ra'is (Hakim) dies; Ra'is Nadir succeeds
+384 [flood] River floods; fertile silt spreads near (82,74)
+385 [capture] Dallou'a (دلّوعة) falls to the poor kingdom
+387 [siege_start] Siege of Fashkhara (فشخرة) begins: poor army of 260 men under Captain Tamim
+388 [capture] Fashkhara (فشخرة) falls to the poor kingdom
+389 [first_build] First canal built in Fashkhara (فشخرة) (poor)
+391 [capture] Sabika (سبيكة) falls to the poor kingdom
+393 [locust] Locust swarm eats the fields near (45,31)
+394 [leader_death] The rich Sultan (Ziyad) dies; Sultan Qays succeeds
+394 [siege_start] Siege of Qalam (قلم) begins: poor army of 420 men under Captain Yasir
+394 [siege_end] Siege of Qalam (قلم) ends after 0 rounds: captured
+394 [capture] Qalam (قلم) falls to the poor kingdom
+398 [spy_caught] A rich spy is caught in Statue City (مدينة التمثال) while stealing Trebuchets
+400 [capture] Minshar (منشار) surrenders to the poor kingdom
+403 [siege_start] Siege of Habl (حبل) begins: poor army of 400 men under Captain Yasir
+404 [capture] Habl (حبل) falls to the poor kingdom
+409 [siege_start] Siege of Fanous (فانوس) begins: poor army of 180 men under Captain Yasir
+409 [capital_fall] The capital Fanous (فانوس) falls to the poor kingdom; the rich court flees
+409 [capture] Fanous (فانوس) falls to the poor kingdom
+413 [leader_death] The poor Ra'is (Nadir) dies; Ra'is Warraq succeeds
+413 [siege_start] Siege of Bakra (بكرة) begins: poor army of 1680 men under Captain Anwar
+414 [siege_end] Siege of Qirba (قربة) ends after 0 rounds: captured
+414 [capture] Qirba (قربة) falls to the poor kingdom
+415 [locust] Locust swarm eats the fields near (112,22)
+416 [capture] Bakra (بكرة) falls to the poor kingdom
+417 [siege_start] Siege of Mistara (مسطرة) begins: poor army of 1120 men under Captain Anwar
+420 [endowment] The poor endow schools: 326 gold buys 16 research points
+421 [capture] Mistara (مسطرة) falls to the poor kingdom
+422 [truce] A truce is signed; the kingdoms withdraw to their cities for 25 years
+425 [waste] The rich build a palace in Mismar (مسمار) for 200 gold
+427 [leader_death] The rich Sultan (Qays) dies; Sultan Jabir succeeds
+432 [dispute] Dispute over a gold or oil deposit at (104,41)
+435 [incident] Border incident near Mismar (مسمار) and Qirba (قربة)
+440 [leader_death] The poor Ra'is (Warraq) dies; Ra'is Aalim succeeds
+441 [flood] River floods; fertile silt spreads near (76,33)
+441 [dispute] Dispute over a gold or oil deposit at (104,41)
+443 [leader_death] The rich Sultan (Jabir) dies; Sultan Mansur succeeds
+445 [incident] Border incident near Mismar (مسمار) and Qirba (قربة)
+450 [locust] Locust swarm eats the fields near (94,48)
+453 [leader_death] The poor Ra'is (Aalim) dies; Ra'is Mirza succeeds
+456 [war_start] Poor declare war on the rich kingdom
+457 [battle] field battle at the open ground: General Hadid (rich, 260 men) is repulsed by Captain Anwar (poor, 420 men); losses 100 and 100 men; deciding factor: numbers
+458 [battle] field battle at the open ground: General Hadid (rich, 180 men) is repulsed by Captain Anwar (poor, 320 men); losses 80 and 80 men; deciding factor: numbers
+459 [leader_death] The poor Ra'is (Mirza) dies; Ra'is Idris succeeds
+461 [siege_end] Siege of Mismar (مسمار) ends after 2 rounds: failed
+463 [flood] River floods; fertile silt spreads near (82,73)
+463 [capture] Qirba (قربة) surrenders to the rich kingdom
+464 [flood] River floods; fertile silt spreads near (79,54)
+464 [leader_death] The rich Sultan (Mansur) dies; Sultan Hamdan succeeds
+466 [leader_death] The poor Ra'is (Idris) dies; Ra'is Sami succeeds
+466 [endowment] The poor endow schools: 464 gold buys 23 research points
+469 [truce] A truce is signed; the kingdoms withdraw to their cities for 25 years
+473 [incident] Border incident near Ajala (عجلة) and Mill City (مدينة الطاحونة)
+475 [drought] Drought strikes the region around (93,31) for 6 years
+476 [theft] The rich steal the secret of Trebuchets from Statue City (مدينة التمثال)
+478 [insult] The rich Sultan insults the other court
+482 [leader_death] The rich Sultan (Hamdan) dies; Sultan Nasir succeeds
+487 [incident] Border incident near Ajala (عجلة) and Mill City (مدينة الطاحونة)
+491 [leader_death] The poor Ra'is (Sami) dies; Ra'is Taqi succeeds
+493 [war_start] Poor declare war on the rich kingdom
+497 [drought] Drought strikes the region around (140,67) for 3 years
+500 [locust] Locust swarm eats the fields near (109,58)
+507 [endowment] The poor endow schools: 477 gold buys 23 research points
+508 [leader_death] The poor Ra'is (Taqi) dies; Ra'is Hakim succeeds
+517 [locust] Locust swarm eats the fields near (91,69)
+524 [flood] River floods; fertile silt spreads near (77,21)
+524 [waste] The rich court holds a lavish feast and spends 365 gold on it
+526 [siege_start] Siege of Mismar (مسمار) begins: poor army of 160 men under Captain Yasir
+527 [leader_death] The rich Sultan (Nasir) dies; Sultan Fadil succeeds
+528 [capital_fall] The capital Mismar (مسمار) falls to the poor kingdom; the rich court flees
+528 [capture] Mismar (مسمار) falls to the poor kingdom
+529 [plague] Plague spreads from Mitraqa (مطرقة)
+535 [plague] Plague spreads from Sullam (سلّم)
+535 [capture] Qirba (قربة) falls to the poor kingdom
+536 [militia] The poor raise 360 militia men from their surplus
+538 [locust] Locust swarm eats the fields near (94,45)
+539 [leader_death] The poor Ra'is (Hakim) dies; Ra'is Nadir succeeds
+551 [leader_death] The rich Sultan (Fadil) dies; Sultan Rashid succeeds
+551 [endowment] The poor endow schools: 456 gold buys 22 research points
+551 [siege_end] Siege of Ajala (عجلة) ends after 6 rounds: captured
+551 [capture] Ajala (عجلة) falls to the poor kingdom
+555 [locust] Locust swarm eats the fields near (96,60)
+555 [end] End of the story: poor kingdom wins (collapse)

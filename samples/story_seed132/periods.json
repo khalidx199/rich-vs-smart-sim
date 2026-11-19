@@ -1,0 +1,70 @@
+{
+ "periods": [
+  [
+   0,
+   71,
+   "عصر نبني ونشوف",
+   "The Age of Building and Seeing"
+  ],
+  [
+   72,
+   79,
+   "عصر الكشخة",
+   "The Age of Swagger"
+  ],
+  [
+   80,
+   96,
+   "الحرب الأولى: سوء تفاهم",
+   "The First War: A Misunderstanding"
+  ],
+  [
+   97,
+   139,
+   "هدنة وسرقة أسرار",
+   "Truce and Stolen Secrets"
+  ],
+  [
+   140,
+   216,
+   "الحرب الكبرى",
+   "The Great War"
+  ],
+  [
+   217,
+   247,
+   "هدنة: فاصل ونواصل",
+   "Truce: A Pause, Then On We Go"
+  ],
+  [
+   248,
+   302,
+   "حرب الثأر",
+   "The War of Revenge"
+  ],
+  [
+   303,
+   352,
+   "الحرب الرابعة: رجعنا لكم",
+   "The Fourth War: We Are Back"
+  ],
+  [
+   353,
+   455,
+   "زمن الجيران المزعجين",
+   "The Age of the Annoying Neighbours"
+  ],
+  [
+   456,
+   492,
+   "بداية النهاية",
+   "The Beginning of the End"
+  ],
+  [
+   493,
+   555,
+   "السقوط",
+   "The Fall"
+  ]
+ ]
+}

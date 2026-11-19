@@ -1,0 +1,17 @@
+runs: 200   wall time: 372.5 s
+winners: poor 139 (70%), rich 61 (30%)
+end reasons: collapse 69, conquest 74, time limit 57
+war-start year: mean 58, median 54; runs with a war: 192
+mean end year 734; wars per run 10.3; war years 280
+contact year mean 51
+captures per run 46.2 (to poor 25.1, to rich 21.1); bribes 1.48; capital falls 7.89
+battles per run 17.8 (field 15.2, ambush 2.61, siege 125.8); decisive 3.9
+techs per run: rich 12.5, poor 14.7
+inventions per run: rich 10.9, poor 14.7
+theft per run: attempts 3.08, success 1.62, caught 0.73, stolen techs held 1.62
+lead changes per run 3.4; rich ahead at some point: 133/200 runs
+truces per run 9.6
+rich win rate 30.5%; time-limit runs 28.5% (57 of 200)
+mean end year 734 (range 75-999)
+tech gap, poor minus rich, at 25%/50%/75% of the game: 5.5 / 4.7 / 3.0
+statues+palaces per run 5.2; feasts per run 4.5; ambush-by-tactics per run 2.52

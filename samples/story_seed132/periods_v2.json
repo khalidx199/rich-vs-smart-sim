@@ -1,0 +1,71 @@
+{
+ "periods": [
+  [
+   0,
+   71,
+   "عصر التأسيس",
+   "Founding"
+  ],
+  [
+   72,
+   79,
+   "عصر التجارة",
+   "Age of trade"
+  ],
+  [
+   80,
+   96,
+   "الحرب الأولى",
+   "First war"
+  ],
+  [
+   97,
+   139,
+   "هدنة وسرقة أسرار",
+   "Truce and stolen secrets"
+  ],
+  [
+   140,
+   216,
+   "الحرب الكبرى",
+   "Great war"
+  ],
+  [
+   217,
+   247,
+   "هدنة",
+   "Truce"
+  ],
+  [
+   248,
+   302,
+   "حرب الثأر",
+   "War of revenge"
+  ],
+  [
+   303,
+   352,
+   "الحرب الرابعة",
+   "Fourth war"
+  ],
+  [
+   353,
+   455,
+   "حروب الحدود",
+   "Border wars"
+  ],
+  [
+   456,
+   492,
+   "بداية النهاية",
+   "Beginning of the end"
+  ],
+  [
+   493,
+   555,
+   "السقوط",
+   "The fall"
+  ]
+ ],
+ "note": "v2 by main session: the sim's last era 217-555 was one 338-year block; split on war/truce events from log.txt"
+}

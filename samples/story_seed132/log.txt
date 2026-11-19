@@ -1,0 +1,340 @@
+000 e00001 [found] Bayt al-Hisab founded by the poor kingdom, linked to Dar al-Hikma
+000 e00002 [waste] The rich build a palace in Qasr al-Dhahab for 200 gold
+000 e00003 [first_build] First palace built in Qasr al-Dhahab (rich)
+000 e00004 [waste] The rich build a statue in Qasr al-Dhahab for 150 gold
+000 e00005 [first_build] First statue built in Qasr al-Dhahab (rich)
+000 e00006 [first_build] First palace built in Dar al-Hikma (poor)
+003 e00008 [found] Madinat al-Warraq founded by the poor kingdom, linked to Dar al-Hikma
+006 e00009 [found] Qasr al-Dhahab founded by the rich kingdom, linked to Qasr al-Dhahab
+009 e00010 [invention] INVENTION: Wells by the poor kingdom in Dar al-Hikma (year 9): wells on desert sites, +500 water each
+010 e00011 [found] Hisn al-Mizan founded by the poor kingdom, linked to Dar al-Hikma
+014 e00013 [found] Dar al-Siyar founded by the poor kingdom, linked to Dar al-Hikma
+017 e00014 [flood] River floods; fertile silt spreads near (77,20)
+018 e00015 [leader_death] The poor Ra'is (Warraq) dies; Ra'is Aalim succeeds
+019 e00016 [found] Ain al-Khatt founded by the poor kingdom, linked to Dar al-Hikma
+024 e00017 [invention] INVENTION: Irrigation canals by the poor kingdom in Dar al-Hikma (year 24): farms within 3 tiles of water turn green (110 food)
+025 e00018 [drought] Drought strikes the region around (120,56) for 4 years
+025 e00019 [invention] INVENTION: Wells by the rich kingdom in Qasr al-Dhahab (year 25): wells on desert sites, +500 water each
+025 e00020 [found] Ain al-Zahab founded by the rich kingdom, linked to Qasr al-Dhahab
+028 e00022 [locust] Locust swarm eats the fields near (143,17)
+028 e00023 [leader_death] The rich Sultan (Mansur) dies; Sultan Hamdan succeeds
+030 e00024 [found] Bayt al-Kitab founded by the poor kingdom, linked to Madinat al-Warraq
+031 e00025 [overtake] The poor now out-earn the rich: 123 against 120 gold a year
+032 e00026 [drought] Drought strikes the region around (31,50) for 6 years
+033 e00027 [found] Hisn al-Amir founded by the rich kingdom, linked to Qasr al-Dhahab
+033 e00028 [found] Madinat al-Qalam founded by the poor kingdom, linked to Dar al-Hikma
+035 e00030 [leader_death] The poor Ra'is (Aalim) dies; Ra'is Mirza succeeds
+036 e00032 [flood] River floods; fertile silt spreads near (79,51)
+037 e00033 [invention] INVENTION: Granaries by the poor kingdom in Dar al-Hikma (year 37): granaries raise the food stock cap
+037 e00034 [first_build] First granary built in Ain al-Khatt (poor)
+038 e00035 [found] Bir al-Dhahab founded by the rich kingdom, linked to Qasr al-Dhahab
+040 e00036 [found] Dar al-Hikma founded by the poor kingdom, linked to Madinat al-Warraq
+043 e00037 [found] Qasr al-Tayr founded by the rich kingdom, linked to Qasr al-Dhahab
+046 e00038 [found] Hisn al-Nuqush founded by the poor kingdom, linked to Bayt al-Hisab
+048 e00039 [found] Qasr al-Shams founded by the rich kingdom, linked to Qasr al-Dhahab
+050 e00042 [invention] INVENTION: Waterwheel by the poor kingdom in Dar al-Hikma (year 50): waterwheels on river banks, +35 food per city
+050 e00043 [first_build] First waterwheel built in Bayt al-Kitab (poor)
+051 e00044 [locust] Locust swarm eats the fields near (60,41)
+053 e00045 [flood] River floods; fertile silt spreads near (77,21)
+054 e00046 [found] Hisn al-Miskh founded by the rich kingdom, linked to Qasr al-Dhahab
+056 e00047 [found] Dar al-Ilm founded by the poor kingdom, linked to Bayt al-Hisab
+060 e00048 [found] Madinat al-Naft founded by the rich kingdom, linked to Qasr al-Dhahab
+061 e00049 [invention] INVENTION: Irrigation canals by the rich kingdom in Qasr al-Dhahab (year 61): farms within 3 tiles of water turn green (110 food)
+062 e00050 [leader_death] The poor Ra'is (Mirza) dies; Ra'is Idris succeeds
+062 e00051 [found] Bayt al-Hisab founded by the poor kingdom, linked to Bayt al-Hisab
+063 e00052 [invention] INVENTION: Windmill by the poor kingdom in Dar al-Hikma (year 63): windmills on the plateau, +25 food per city
+065 e00053 [leader_death] The rich Sultan (Hamdan) dies; Sultan Nasir succeeds
+065 e00054 [waste] The rich court holds a lavish feast and spends 679 gold on it
+066 e00055 [found] Hisn al-Ratl founded by the rich kingdom, linked to Ain al-Zahab
+069 e00056 [found] Bir al-Sultan founded by the rich kingdom, linked to Hisn al-Amir
+069 e00057 [found] Bayt al-Hisab founded by the poor kingdom, linked to Madinat al-Warraq
+072 e00059 [contact] First contact: the borders of the two kingdoms meet
+073 e00060 [found] Dar al-Siyar founded by the poor kingdom, linked to Hisn al-Nuqush
+074 e00061 [incident] Border incident near Madinat al-Lulu and Dar al-Siyar
+074 e00062 [insult] The rich Sultan insults the other court
+075 e00064 [leader_death] The rich Sultan (Nasir) dies; Sultan Fadil succeeds
+077 e00065 [invention] INVENTION: Paper by the poor kingdom in Dar al-Hikma (year 77): libraries and bazaars; research bonus per library
+077 e00066 [found] Qasr al-Tayr founded by the rich kingdom, linked to Bir al-Dhahab
+077 e00067 [found] Bayt al-Hisab founded by the poor kingdom, linked to Madinat al-Warraq
+079 e00069 [locust] Locust swarm eats the fields near (142,15)
+080 e00070 [war_start] Poor declare war on the rich kingdom
+080 e00071 [hire] The rich hire 8000 mercenaries under General Hadid at Qasr al-Dhahab for 480 gold
+085 e00074 [flood] River floods; fertile silt spreads near (76,36)
+086 e00076 [capture] Dar al-Siyar falls to the rich kingdom
+088 e00078 [invention] INVENTION: Granaries by the rich kingdom in Qasr al-Dhahab (year 88): granaries raise the food stock cap
+092 e00088 [invention] INVENTION: Astronomy calendar by the poor kingdom in Dar al-Hikma (year 92): observatories, +10% harvest in the city
+096 e00097 [flood] River floods; fertile silt spreads near (82,71)
+096 e00098 [truce] A truce is signed; the kingdoms withdraw to their cities for 25 years
+097 e00102 [drought] Drought strikes the region around (66,19) for 5 years
+097 e00103 [leader_death] The poor Ra'is (Idris) dies; Ra'is Sami succeeds
+098 e00106 [incident] Border incident near Dar al-Siyar and Bayt al-Kitab
+102 e00117 [drought] Drought strikes the region around (19,27) for 6 years
+108 e00132 [invention] INVENTION: Compass and coastal ships by the poor kingdom in Dar al-Hikma (year 108): harbours, ships, caravanserai: trade income
+108 e00134 [found] Bayt al-Kitab founded by the poor kingdom, linked to Bayt al-Kitab
+108 e00135 [first_build] First caravanserai built in Dar al-Hikma (poor)
+113 e00142 [leader_death] The rich Sultan (Fadil) dies; Sultan Rashid succeeds
+113 e00143 [dispute] Dispute over a gold or oil deposit at (76,62)
+113 e00145 [first_build] First mine built in Bayt al-Kitab (poor)
+114 e00146 [incident] Border incident near Dar al-Siyar and Bayt al-Kitab
+116 e00149 [drought] Drought strikes the region around (101,60) for 4 years
+117 e00151 [invention] INVENTION: Waterwheel by the rich kingdom in Qasr al-Dhahab (year 117): waterwheels on river banks, +35 food per city
+118 e00153 [insult] The poor Ra'is insults the other court
+125 e00161 [leader_death] The poor Ra'is (Sami) dies; Ra'is Taqi succeeds
+126 e00163 [incident] Border incident near Dar al-Siyar and Bayt al-Kitab
+126 e00164 [invention] INVENTION: Iron working by the poor kingdom in Dar al-Hikma (year 126): iron mines, weapons +25%
+131 e00171 [drought] Drought strikes the region around (119,75) for 3 years
+132 e00174 [leader_death] The rich Sultan (Rashid) dies; Sultan Ziyad succeeds
+136 e00180 [insult] The rich Sultan insults the other court
+136 e00181 [theft] The rich steal the secret of Windmill from Dar al-Hikma
+140 e00186 [flood] River floods; fertile silt spreads near (76,35)
+140 e00187 [dispute] Dispute over a gold or oil deposit at (76,62)
+140 e00188 [war_start] Poor declare war on the rich kingdom
+142 e00192 [locust] Locust swarm eats the fields near (119,24)
+144 e00199 [invention] INVENTION: Composite bows by the poor kingdom in Dar al-Hikma (year 144): archers +0.4 power in field battles
+150 e00213 [flood] River floods; fertile silt spreads near (82,70)
+151 e00216 [plague] Plague spreads from Hisn al-Amir
+151 e00217 [leader_death] The poor Ra'is (Taqi) dies; Ra'is Hakim succeeds
+154 e00223 [leader_death] The rich Sultan (Ziyad) dies; Sultan Qays succeeds
+155 e00225 [flood] River floods; fertile silt spreads near (77,42)
+157 e00230 [invention] INVENTION: Paper by the rich kingdom in Qasr al-Dhahab (year 157): libraries and bazaars; research bonus per library
+160 e00236 [theft] The rich steal the secret of Astronomy calendar from Dar al-Hikma
+162 e00239 [drought] Drought strikes the region around (37,27) for 4 years
+163 e00241 [invention] INVENTION: Engineering of walls by the poor kingdom in Dar al-Hikma (year 163): city walls (up to 3) and towers
+163 e00244 [capture] Madinat al-Lulu falls to the poor kingdom
+165 e00249 [siege_start] Siege of Qasr al-Shams begins: poor army of 720 men under Captain Anwar
+166 e00252 [hire] The rich hire 8000 mercenaries under General Dhiyab at Qasr al-Dhahab for 480 gold
+166 e00254 [battle] field battle at Qasr al-Shams: Captain Anwar (poor, 560 men) is repulsed by General Dhiyab (rich, 9660 men); losses 280 and 1220 men; deciding factor: numbers
+167 e00255 [drought] Drought strikes the region around (101,29) for 6 years
+167 e00260 [battle] field battle at Madinat al-Lulu: Captain Anwar (poor, 280 men) is repulsed by General Dhiyab (rich, 8420 men); losses 140 and 980 men; deciding factor: numbers
+167 e00261 [siege_end] Siege of Qasr al-Shams ends after 1 rounds: failed
+172 e00272 [locust] Locust swarm eats the fields near (146,36)
+173 e00275 [locust] Locust swarm eats the fields near (78,53)
+174 e00280 [hire] The rich hire 8000 mercenaries under General Hadid at Dar al-Siyar for 480 gold
+175 e00284 [battle] field battle at Madinat al-Lulu: General Dhiyab (rich, 2820 men) defeats Captain Yasir (poor, 1520 men); losses 820 and 480 men; deciding factor: numbers
+175 e00286 [capture] Bayt al-Kitab surrenders to the rich kingdom
+176 e00289 [battle] field battle at Madinat al-Lulu: General Dhiyab (rich, 2000 men) is repulsed by Captain Nizar (poor, 1480 men); losses 620 and 440 men; deciding factor: tech:bows, tech:iron
+177 e00292 [battle] field battle at Qasr al-Dhahab: General Dhiyab (rich, 1380 men) defeats Captain Nizar (poor, 1060 men); losses 400 and 340 men; deciding factor: numbers
+180 e00297 [leader_death] The poor Ra'is (Hakim) dies; Ra'is Nadir succeeds
+180 e00300 [siege_start] Siege of Madinat al-Lulu begins: rich army of 980 men under General Dhiyab
+180 e00301 [battle] field battle at Dar al-Hikma: General Sarim (rich, 2620 men) defeats Captain Yasir (poor, 1060 men); losses 640 and 380 men; deciding factor: numbers
+181 e00304 [battle] field battle at Dar al-Hikma: General Sarim (rich, 1980 men) defeats Captain Yasir (poor, 660 men); losses 460 and 260 men; deciding factor: numbers
+182 e00307 [battle] field battle at Dar al-Hikma: General Sarim (rich, 1520 men) defeats Captain Yasir (poor, 400 men); losses 340 and 160 men; deciding factor: numbers
+183 e00310 [hire] The rich hire 8000 mercenaries under General Hadid at Dar al-Siyar for 480 gold
+185 e00319 [battle] field battle at Dar al-Hikma: General Sarim (rich, 760 men) defeats Captain Nizar (poor, 280 men); losses 180 and 100 men; deciding factor: numbers
+186 e00320 [invention] INVENTION: Trebuchets by the poor kingdom in Dar al-Hikma (year 186): siege workshops; trebuchets break walls
+186 e00324 [battle] field battle at Dar al-Hikma: General Sarim (rich, 600 men) defeats Captain Nizar (poor, 160 men); losses 120 and 80 men; deciding factor: numbers
+186 e00326 [capital_fall] The capital Dar al-Hikma falls to the rich kingdom; the poor court flees
+186 e00327 [capture] Dar al-Hikma surrenders to the rich kingdom
+187 e00329 [growth] Dar al-Hikma grows into a city (1147 people)
+187 e00332 [waste] The rich build a statue in Dar al-Hikma for 150 gold
+187 e00333 [first_build] First observatory built in Dar al-Hikma (rich)
+187 e00334 [first_build] First library built in Dar al-Hikma (rich)
+187 e00338 [capture] Madinat al-Lulu surrenders to the rich kingdom
+188 e00341 [first_build] First windmill built in Dar al-Hikma (rich)
+188 e00343 [siege_start] Siege of Madinat al-Qalam begins: rich army of 440 men under General Hadid
+189 e00347 [capture] Madinat al-Qalam surrenders to the rich kingdom
+193 e00357 [siege_end] Siege of Bayt al-Hisab ends after 4 rounds: captured
+193 e00358 [capture] Bayt al-Hisab surrenders to the rich kingdom
+194 e00359 [locust] Locust swarm eats the fields near (25,71)
+194 e00363 [battle] field battle at Madinat al-Warraq: General Sarim (rich, 280 men) is repulsed by Captain Yasir (poor, 460 men); losses 120 and 100 men; deciding factor: numbers
+195 e00364 [flood] River floods; fertile silt spreads near (76,25)
+195 e00367 [siege_start] Siege of Madinat al-Qalam begins: poor army of 360 men under Captain Yasir
+196 e00371 [battle] ambush battle at Bayt al-Kitab: Captain Tamim (poor, 1260 men) defeats General Sarim (rich, 180 men); losses 160 and 100 men; deciding factor: surprise
+196 e00374 [capture] Madinat al-Qalam falls to the poor kingdom
+197 e00378 [capture] Madinat al-Warraq surrenders to the rich kingdom
+201 e00389 [capture] Madinat al-Qalam surrenders to the rich kingdom
+202 e00392 [first_build] First library built in Dar al-Siyar (poor)
+202 e00394 [siege_start] Siege of Dar al-Siyar begins: rich army of 860 men under General Hadid
+203 e00398 [hire] The rich hire 8000 mercenaries under General Sarim at Qasr al-Dhahab for 480 gold
+203 e00399 [first_build] First windmill built in Dar al-Siyar (poor)
+204 e00405 [siege_start] Siege of Madinat al-Qalam begins: poor army of 460 men under Captain Yasir
+204 e00406 [siege_end] Siege of Madinat al-Qalam ends after 1 rounds: captured
+204 e00407 [capture] Madinat al-Qalam falls to the poor kingdom
+205 e00411 [capital_fall] The capital Dar al-Siyar falls to the rich kingdom; the poor court flees
+205 e00412 [capture] Dar al-Siyar surrenders to the rich kingdom
+206 e00413 [locust] Locust swarm eats the fields near (21,80)
+210 e00424 [leader_death] The rich Sultan (Qays) dies; Sultan Jabir succeeds
+211 e00427 [invention] INVENTION: Compass and coastal ships by the rich kingdom in Qasr al-Dhahab (year 211): harbours, ships, caravanserai: trade income
+211 e00430 [first_build] First caravanserai built in Qasr al-Dhahab (rich)
+211 e00433 [capital_fall] The capital Qasr al-Dhahab falls to the poor kingdom; the rich court flees
+211 e00434 [capture] Qasr al-Dhahab falls to the poor kingdom
+212 e00435 [growth] Qasr al-Dhahab grows into a city (1697 people)
+212 e00438 [first_build] First siege_workshop built in Qasr al-Dhahab (poor)
+212 e00439 [first_build] First bazaar built in Qasr al-Dhahab (poor)
+213 e00442 [first_build] First granary built in Qasr al-Layl (rich)
+213 e00444 [capture] Hisn al-Nuqush surrenders to the rich kingdom
+215 e00448 [leader_death] The poor Ra'is (Nadir) dies; Ra'is Warraq succeeds
+216 e00451 [truce] A truce is signed; the kingdoms withdraw to their cities for 25 years
+216 e00453 [siege_end] Siege of Madinat al-Qalam ends after 2 rounds: lifted
+216 e00458 [siege_end] Siege of Dar al-Hikma ends after 2 rounds: lifted
+217 e00463 [found] Hisn al-Mizan founded by the poor kingdom, linked to Ain al-Maani
+218 e00464 [incident] Border incident near Bayt al-Hisab and Madinat al-Qalam
+221 e00472 [insult] The rich Sultan insults the other court
+221 e00473 [militia] The poor raise 460 militia men from their surplus
+224 e00478 [invention] INVENTION: Medicine by the poor kingdom in Qasr al-Dhahab (year 224): plague losses halved
+226 e00481 [incident] Border incident near Bayt al-Hisab and Madinat al-Qalam
+226 e00483 [found] Madinat al-Warraq founded by the poor kingdom, linked to Ain al-Maani
+228 e00485 [endowment] The poor endow schools: 85 gold buys 4 research points
+229 e00487 [found] Bayt al-Nujum founded by the poor kingdom, linked to Ain al-Maani
+233 e00492 [found] Ain al-Khatt founded by the poor kingdom, linked to Dar al-Hikma
+235 e00495 [leader_death] The poor Ra'is (Warraq) dies; Ra'is Aalim succeeds
+236 e00498 [incident] Border incident near Bayt al-Hisab and Madinat al-Qalam
+242 e00510 [locust] Locust swarm eats the fields near (33,77)
+242 e00511 [insult] The rich Sultan insults the other court
+244 e00517 [drought] Drought strikes the region around (104,51) for 3 years
+246 e00522 [leader_death] The rich Sultan (Jabir) dies; Sultan Mansur succeeds
+246 e00523 [incident] Border incident near Bayt al-Hisab and Madinat al-Qalam
+248 e00529 [war_start] Rich declare war on the poor kingdom
+248 e00532 [siege_start] Siege of Dar al-Hikma begins: rich army of 1920 men under General Sarim
+249 e00533 [plague] Plague spreads from Qasr al-Shams
+253 e00543 [drought] Drought strikes the region around (71,25) for 6 years
+253 e00548 [capture] Dar al-Hikma surrenders to the rich kingdom
+255 e00551 [leader_death] The poor Ra'is (Aalim) dies; Ra'is Mirza succeeds
+255 e00555 [capture] Qasr al-Shams falls to the poor kingdom
+257 e00559 [flood] River floods; fertile silt spreads near (82,69)
+259 e00568 [capture] Qasr al-Dhahab falls to the poor kingdom
+260 e00569 [invention] INVENTION: Canal network by the poor kingdom in Qasr al-Dhahab (year 260): canals; the desert turns green (irrigation range 6)
+260 e00573 [siege_start] Siege of Madinat al-Naft begins: poor army of 440 men under Captain Tamim
+265 e00582 [drought] Drought strikes the region around (139,40) for 3 years
+265 e00583 [locust] Locust swarm eats the fields near (102,70)
+265 e00584 [invention] INVENTION: Iron working by the rich kingdom in Dar al-Hikma (year 265): iron mines, weapons +25%
+266 e00588 [siege_end] Siege of Madinat al-Naft ends after 6 rounds: captured
+266 e00589 [capture] Madinat al-Naft falls to the poor kingdom
+269 e00595 [leader_death] The poor Ra'is (Mirza) dies; Ra'is Idris succeeds
+271 e00599 [truce] A truce is signed; the kingdoms withdraw to their cities for 25 years
+273 e00602 [locust] Locust swarm eats the fields near (83,51)
+278 e00608 [leader_death] The rich Sultan (Mansur) dies; Sultan Hamdan succeeds
+278 e00609 [dispute] Dispute over a gold or oil deposit at (104,41)
+280 e00612 [dispute] Dispute over a gold or oil deposit at (104,41)
+281 e00614 [incident] Border incident near Bayt al-Hisab and Madinat al-Qalam
+286 e00620 [leader_death] The poor Ra'is (Idris) dies; Ra'is Sami succeeds
+289 e00624 [leader_death] The poor Ra'is (Sami) dies; Ra'is Taqi succeeds
+292 e00628 [invention] INVENTION: Steel by the poor kingdom in Qasr al-Dhahab (year 292): weapons +20%
+293 e00631 [flood] River floods; fertile silt spreads near (76,37)
+294 e00633 [incident] Border incident near Bayt al-Hisab and Madinat al-Qalam
+294 e00634 [theft] The rich steal the secret of Composite bows from Qasr al-Dhahab
+300 e00642 [leader_death] The rich Sultan (Hamdan) dies; Sultan Nasir succeeds
+302 e00647 [insult] The rich Sultan insults the other court
+303 e00649 [war_start] Rich declare war on the poor kingdom
+303 e00651 [battle] field battle at Dar al-Ilm: General Sarim (rich, 300 men) is repulsed by Captain Tamim (poor, 460 men); losses 120 and 100 men; deciding factor: numbers
+310 e00662 [hire] The rich hire 8000 mercenaries under General Dhiyab at Dar al-Hikma for 480 gold
+310 e00665 [battle] field battle at Madinat al-Qalam: Captain Yasir (poor, 220 men) is repulsed by General Dhiyab (rich, 9420 men); losses 120 and 1040 men; deciding factor: numbers
+311 e00669 [siege_start] Siege of Dar al-Hikma begins: poor army of 460 men under Captain Yasir
+311 e00672 [capital_fall] The capital Dar al-Hikma falls to the poor kingdom; the rich court flees
+311 e00673 [capture] Dar al-Hikma falls to the poor kingdom
+311 e00675 [capture] Hisn al-Miskh falls to the poor kingdom
+312 e00678 [first_build] First wall built in Dar al-Hikma (poor)
+317 e00691 [capture] Qasr al-Layl falls to the poor kingdom
+318 e00696 [capture] Madinat al-Qalam surrenders to the rich kingdom
+320 e00701 [siege_end] Siege of Bir al-Dhahab ends after 2 rounds: failed
+325 e00707 [leader_death] The rich Sultan (Nasir) dies; Sultan Fadil succeeds
+326 e00709 [leader_death] The poor Ra'is (Taqi) dies; Ra'is Hakim succeeds
+327 e00713 [hire] The rich hire 8000 mercenaries under General Dhiyab at Bayt al-Hisab for 480 gold
+333 e00727 [siege_start] Siege of Bir al-Dhahab begins: poor army of 1680 men under Captain Tamim
+334 e00731 [capture] Dar al-Ilm surrenders to the rich kingdom
+337 e00740 [capture] Bir al-Dhahab falls to the poor kingdom
+339 e00745 [leader_death] The rich Sultan (Fadil) dies; Sultan Rashid succeeds
+340 e00751 [capture] Qasr al-Tayr falls to the poor kingdom
+343 e00758 [siege_start] Siege of Madinat al-Lulu begins: poor army of 420 men under Captain Tamim
+343 e00761 [capture] Dar al-Ilm surrenders to the rich kingdom
+345 e00764 [siege_end] Siege of Madinat al-Lulu ends after 2 rounds: captured
+345 e00765 [capture] Madinat al-Lulu falls to the poor kingdom
+347 e00768 [flood] River floods; fertile silt spreads near (77,21)
+347 e00769 [endowment] The poor endow schools: 212 gold buys 10 research points
+351 e00779 [siege_start] Siege of Ain al-Zahab begins: poor army of 1680 men under Captain Yasir
+352 e00781 [truce] A truce is signed; the kingdoms withdraw to their cities for 25 years
+352 e00785 [siege_end] Siege of Dar al-Siyar ends after 5 rounds: lifted
+354 e00792 [incident] Border incident near Dar al-Ilm and Bayt al-Kitab
+357 e00797 [invention] INVENTION: Engineering of walls by the rich kingdom in Dar al-Siyar (year 357): city walls (up to 3) and towers
+361 e00802 [flood] River floods; fertile silt spreads near (81,63)
+362 e00804 [incident] Border incident near Dar al-Ilm and Bayt al-Kitab
+371 e00817 [incident] Border incident near Dar al-Ilm and Bayt al-Kitab
+373 e00820 [leader_death] The rich Sultan (Rashid) dies; Sultan Ziyad succeeds
+377 e00826 [war_start] Rich declare war on the poor kingdom
+377 e00832 [capture] Ain al-Zahab falls to the poor kingdom
+378 e00836 [siege_start] Siege of Hisn al-Ratl begins: poor army of 960 men under Captain Tamim
+380 e00843 [siege_end] Siege of Hisn al-Ratl ends after 2 rounds: captured
+380 e00844 [capture] Hisn al-Ratl falls to the poor kingdom
+382 e00847 [leader_death] The poor Ra'is (Hakim) dies; Ra'is Nadir succeeds
+384 e00852 [flood] River floods; fertile silt spreads near (82,74)
+385 e00858 [capture] Qasr al-Tayr falls to the poor kingdom
+387 e00862 [siege_start] Siege of Hisn al-Amir begins: poor army of 260 men under Captain Tamim
+388 e00867 [capture] Hisn al-Amir falls to the poor kingdom
+389 e00870 [first_build] First canal built in Hisn al-Amir (poor)
+391 e00877 [capture] Bir al-Sultan falls to the poor kingdom
+393 e00880 [locust] Locust swarm eats the fields near (45,31)
+394 e00883 [leader_death] The rich Sultan (Ziyad) dies; Sultan Qays succeeds
+394 e00886 [siege_start] Siege of Dar al-Siyar begins: poor army of 420 men under Captain Yasir
+394 e00888 [siege_end] Siege of Dar al-Siyar ends after 0 rounds: captured
+394 e00889 [capture] Dar al-Siyar falls to the poor kingdom
+398 e00898 [spy_caught] A rich spy is caught in Qasr al-Dhahab while stealing Trebuchets
+400 e00905 [capture] Bayt al-Kitab surrenders to the poor kingdom
+403 e00913 [siege_start] Siege of Dar al-Ilm begins: poor army of 400 men under Captain Yasir
+404 e00919 [capture] Dar al-Ilm falls to the poor kingdom
+409 e00930 [siege_start] Siege of Dar al-Siyar begins: poor army of 180 men under Captain Yasir
+409 e00934 [capital_fall] The capital Dar al-Siyar falls to the poor kingdom; the rich court flees
+409 e00935 [capture] Dar al-Siyar falls to the poor kingdom
+413 e00943 [leader_death] The poor Ra'is (Nadir) dies; Ra'is Warraq succeeds
+413 e00947 [siege_start] Siege of Dar al-Hikma begins: poor army of 1680 men under Captain Anwar
+414 e00951 [siege_end] Siege of Madinat al-Qalam ends after 0 rounds: captured
+414 e00952 [capture] Madinat al-Qalam falls to the poor kingdom
+415 e00953 [locust] Locust swarm eats the fields near (112,22)
+416 e00962 [capture] Dar al-Hikma falls to the poor kingdom
+417 e00965 [siege_start] Siege of Dar al-Ilm begins: poor army of 1120 men under Captain Anwar
+420 e00971 [endowment] The poor endow schools: 326 gold buys 16 research points
+421 e00975 [capture] Dar al-Ilm falls to the poor kingdom
+422 e00976 [truce] A truce is signed; the kingdoms withdraw to their cities for 25 years
+425 e00984 [waste] The rich build a palace in Bayt al-Hisab for 200 gold
+427 e00987 [leader_death] The rich Sultan (Qays) dies; Sultan Jabir succeeds
+432 e00993 [dispute] Dispute over a gold or oil deposit at (104,41)
+435 e00997 [incident] Border incident near Bayt al-Hisab and Madinat al-Qalam
+440 e01005 [leader_death] The poor Ra'is (Warraq) dies; Ra'is Aalim succeeds
+441 e01007 [flood] River floods; fertile silt spreads near (76,33)
+441 e01008 [dispute] Dispute over a gold or oil deposit at (104,41)
+443 e01013 [leader_death] The rich Sultan (Jabir) dies; Sultan Mansur succeeds
+445 e01016 [incident] Border incident near Bayt al-Hisab and Madinat al-Qalam
+450 e01025 [locust] Locust swarm eats the fields near (94,48)
+453 e01030 [leader_death] The poor Ra'is (Aalim) dies; Ra'is Mirza succeeds
+456 e01034 [war_start] Poor declare war on the rich kingdom
+457 e01039 [battle] field battle at the open ground: General Hadid (rich, 260 men) is repulsed by Captain Anwar (poor, 420 men); losses 100 and 100 men; deciding factor: numbers
+458 e01042 [battle] field battle at the open ground: General Hadid (rich, 180 men) is repulsed by Captain Anwar (poor, 320 men); losses 80 and 80 men; deciding factor: numbers
+459 e01043 [leader_death] The poor Ra'is (Mirza) dies; Ra'is Idris succeeds
+461 e01051 [siege_end] Siege of Bayt al-Hisab ends after 2 rounds: failed
+463 e01054 [flood] River floods; fertile silt spreads near (82,73)
+463 e01058 [capture] Madinat al-Qalam surrenders to the rich kingdom
+464 e01059 [flood] River floods; fertile silt spreads near (79,54)
+464 e01060 [leader_death] The rich Sultan (Mansur) dies; Sultan Hamdan succeeds
+466 e01063 [leader_death] The poor Ra'is (Idris) dies; Ra'is Sami succeeds
+466 e01064 [endowment] The poor endow schools: 464 gold buys 23 research points
+469 e01067 [truce] A truce is signed; the kingdoms withdraw to their cities for 25 years
+473 e01072 [incident] Border incident near Hisn al-Nuqush and Dar al-Hikma
+475 e01075 [drought] Drought strikes the region around (93,31) for 6 years
+476 e01077 [theft] The rich steal the secret of Trebuchets from Qasr al-Dhahab
+478 e01080 [insult] The rich Sultan insults the other court
+482 e01085 [leader_death] The rich Sultan (Hamdan) dies; Sultan Nasir succeeds
+487 e01092 [incident] Border incident near Hisn al-Nuqush and Dar al-Hikma
+491 e01097 [leader_death] The poor Ra'is (Sami) dies; Ra'is Taqi succeeds
+493 e01101 [war_start] Poor declare war on the rich kingdom
+497 e01106 [drought] Drought strikes the region around (140,67) for 3 years
+500 e01110 [locust] Locust swarm eats the fields near (109,58)
+507 e01118 [endowment] The poor endow schools: 477 gold buys 23 research points
+508 e01119 [leader_death] The poor Ra'is (Taqi) dies; Ra'is Hakim succeeds
+517 e01129 [locust] Locust swarm eats the fields near (91,69)
+524 e01139 [flood] River floods; fertile silt spreads near (77,21)
+524 e01140 [waste] The rich court holds a lavish feast and spends 365 gold on it
+526 e01144 [siege_start] Siege of Bayt al-Hisab begins: poor army of 160 men under Captain Yasir
+527 e01145 [leader_death] The rich Sultan (Nasir) dies; Sultan Fadil succeeds
+528 e01150 [capital_fall] The capital Bayt al-Hisab falls to the poor kingdom; the rich court flees
+528 e01151 [capture] Bayt al-Hisab falls to the poor kingdom
+529 e01152 [plague] Plague spreads from Ain al-Khatt
+535 e01162 [plague] Plague spreads from Bayt al-Hisab
+535 e01165 [capture] Madinat al-Qalam falls to the poor kingdom
+536 e01166 [militia] The poor raise 360 militia men from their surplus
+538 e01169 [locust] Locust swarm eats the fields near (94,45)
+539 e01171 [leader_death] The poor Ra'is (Hakim) dies; Ra'is Nadir succeeds
+551 e01189 [leader_death] The rich Sultan (Fadil) dies; Sultan Rashid succeeds
+551 e01190 [endowment] The poor endow schools: 456 gold buys 22 research points
+551 e01191 [siege_end] Siege of Hisn al-Nuqush ends after 6 rounds: captured
+551 e01192 [capture] Hisn al-Nuqush falls to the poor kingdom
+555 e01200 [locust] Locust swarm eats the fields near (96,60)
+555 e01203 [end] End of the story: poor kingdom wins (collapse)

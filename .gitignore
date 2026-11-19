@@ -1,0 +1,12 @@
+# outputs of new runs (published samples live in samples/)
+/story/
+/maps/
+/batch/
+/sweep/sweep_runs.csv
+/sweep/sweep_summary.md
+/sweep/run.log
+__pycache__/
+*.pyc
+# macOS / exFAT metadata
+.DS_Store
+._*

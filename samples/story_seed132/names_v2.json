@@ -1,0 +1,230 @@
+{
+ "1": {
+  "ar": "مدينة التمثال",
+  "en": "Statue City",
+  "old_en": "Qasr al-Dhahab",
+  "founder": "rich"
+ },
+ "2": {
+  "ar": "مدينة الطاحونة",
+  "en": "Mill City",
+  "old_en": "Dar al-Hikma",
+  "founder": "poor"
+ },
+ "3": {
+  "ar": "مسمار",
+  "en": "Mismar",
+  "old_en": "Bayt al-Hisab",
+  "founder": "poor"
+ },
+ "4": {
+  "ar": "برغي",
+  "en": "Burghi",
+  "old_en": "Madinat al-Warraq",
+  "founder": "poor"
+ },
+ "5": {
+  "ar": "لمعة",
+  "en": "Lamaa",
+  "old_en": "Qasr al-Dhahab",
+  "founder": "rich"
+ },
+ "6": {
+  "ar": "فكرة",
+  "en": "Fikra",
+  "old_en": "Hisn al-Mizan",
+  "founder": "poor"
+ },
+ "7": {
+  "ar": "دفتر",
+  "en": "Daftar",
+  "old_en": "Ain al-Maani",
+  "founder": "poor"
+ },
+ "8": {
+  "ar": "فانوس",
+  "en": "Fanous",
+  "old_en": "Dar al-Siyar",
+  "founder": "poor"
+ },
+ "9": {
+  "ar": "مطرقة",
+  "en": "Mitraqa",
+  "old_en": "Ain al-Khatt",
+  "founder": "poor"
+ },
+ "10": {
+  "ar": "كشخة",
+  "en": "Kashkha",
+  "old_en": "Ain al-Zahab",
+  "founder": "rich"
+ },
+ "11": {
+  "ar": "سطل",
+  "en": "Satl",
+  "old_en": "Bayt al-Kitab",
+  "founder": "poor"
+ },
+ "12": {
+  "ar": "فشخرة",
+  "en": "Fashkhara",
+  "old_en": "Hisn al-Amir",
+  "founder": "rich"
+ },
+ "13": {
+  "ar": "قربة",
+  "en": "Qirba",
+  "old_en": "Madinat al-Qalam",
+  "founder": "poor"
+ },
+ "14": {
+  "ar": "مجرفة",
+  "en": "Mijrafa",
+  "old_en": "Bayt al-Nujum",
+  "founder": "poor"
+ },
+ "15": {
+  "ar": "هياط",
+  "en": "Hiyaat",
+  "old_en": "Qasr al-Layl",
+  "founder": "rich"
+ },
+ "16": {
+  "ar": "فخفخة",
+  "en": "Fakhfakha",
+  "old_en": "Bir al-Dhahab",
+  "founder": "rich"
+ },
+ "17": {
+  "ar": "بكرة",
+  "en": "Bakra",
+  "old_en": "Dar al-Hikma",
+  "founder": "poor"
+ },
+ "18": {
+  "ar": "دلّوعة",
+  "en": "Dallou'a",
+  "old_en": "Qasr al-Tayr",
+  "founder": "rich"
+ },
+ "19": {
+  "ar": "عجلة",
+  "en": "Ajala",
+  "old_en": "Hisn al-Nuqush",
+  "founder": "poor"
+ },
+ "20": {
+  "ar": "بخشيش",
+  "en": "Bakhshish",
+  "old_en": "Qasr al-Shams",
+  "founder": "rich"
+ },
+ "21": {
+  "ar": "دنانير",
+  "en": "Dananir",
+  "old_en": "Hisn al-Miskh",
+  "founder": "rich"
+ },
+ "22": {
+  "ar": "مسطرة",
+  "en": "Mistara",
+  "old_en": "Dar al-Ilm",
+  "founder": "poor"
+ },
+ "23": {
+  "ar": "ذهبية",
+  "en": "Dhahabiyya",
+  "old_en": "Madinat al-Naft",
+  "founder": "rich"
+ },
+ "24": {
+  "ar": "بوصلة",
+  "en": "Bousla",
+  "old_en": "Bayt al-Hisab",
+  "founder": "poor"
+ },
+ "25": {
+  "ar": "كنزة",
+  "en": "Kanza",
+  "old_en": "Hisn al-Ratl",
+  "founder": "rich"
+ },
+ "26": {
+  "ar": "سبيكة",
+  "en": "Sabika",
+  "old_en": "Bir al-Sultan",
+  "founder": "rich"
+ },
+ "27": {
+  "ar": "ممحاة",
+  "en": "Mimhaa",
+  "old_en": "Bayt al-Hisab",
+  "founder": "poor"
+ },
+ "28": {
+  "ar": "نافورة",
+  "en": "Nafoura",
+  "old_en": "Madinat al-Lulu",
+  "founder": "rich"
+ },
+ "29": {
+  "ar": "قلم",
+  "en": "Qalam",
+  "old_en": "Dar al-Siyar",
+  "founder": "poor"
+ },
+ "30": {
+  "ar": "حبل",
+  "en": "Habl",
+  "old_en": "Dar al-Ilm",
+  "founder": "poor"
+ },
+ "31": {
+  "ar": "مرآة",
+  "en": "Mir'aa",
+  "old_en": "Qasr al-Tayr",
+  "founder": "rich"
+ },
+ "32": {
+  "ar": "سلّم",
+  "en": "Sullam",
+  "old_en": "Bayt al-Hisab",
+  "founder": "poor"
+ },
+ "33": {
+  "ar": "منشار",
+  "en": "Minshar",
+  "old_en": "Bayt al-Kitab",
+  "founder": "poor"
+ },
+ "34": {
+  "ar": "زنبيل",
+  "en": "Zanbil",
+  "old_en": "Hisn al-Mizan",
+  "founder": "poor"
+ },
+ "35": {
+  "ar": "إبريق",
+  "en": "Ibriq",
+  "old_en": "Madinat al-Warraq",
+  "founder": "poor"
+ },
+ "36": {
+  "ar": "دولاب",
+  "en": "Doulab",
+  "old_en": "Bayt al-Nujum",
+  "founder": "poor"
+ },
+ "37": {
+  "ar": "صندوق",
+  "en": "Sanduq",
+  "old_en": "Ain al-Khatt",
+  "founder": "poor"
+ },
+ "38": {
+  "ar": "شمعة",
+  "en": "Sham'a",
+  "old_en": "Madinat al-Warraq",
+  "founder": "poor"
+ }
+}
