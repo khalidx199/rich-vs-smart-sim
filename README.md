@@ -125,9 +125,9 @@ python3 sim.py run --seed 7
 <summary><b>تشغيل التجارب كاملة بنفسك</b></summary>
 
 ```bash
-python3 sim.py batch              # 200 تاريخ -> batch/summary.txt (حوالي 6-7 دقائق)
+python3 sim.py batch              # 200 تاريخ -> batch/summary.txt (حوالي 4 دقائق)
 python3 sim.py batch --quick      # 8 تواريخ فقط (حوالي 15 ثانية)
-python3 sweep/run_sweep.py run    # 17 إعداد × 60 بذرة = 1,020 تشغيل (حوالي 30-35 دقيقة)
+python3 sweep/run_sweep.py run    # 17 إعداد × 60 بذرة = 1,020 تشغيل (حوالي 20 دقيقة)
 python3 sweep/run_sweep.py summarize
 ```
 
@@ -266,15 +266,15 @@ Multiply the gold by 16 and almost nothing changes, because gold does not turn i
 <summary><b>Run the full experiments yourself</b></summary>
 
 ```bash
-python3 sim.py batch              # 200 histories -> batch/runs.csv, batch/summary.txt   (~6–7 min)
+python3 sim.py batch              # 200 histories -> batch/runs.csv, batch/summary.txt   (~4 min)  
 python3 sim.py batch --quick      # 8 histories only                                     (~15 s)
-python3 sim.py search             # score seeds 1–240 for story drama -> story/search.csv (~7–8 min)
-python3 sweep/run_sweep.py run    # 17 settings × 60 seeds = 1,020 runs -> sweep/        (~30–35 min)
+python3 sim.py search             # score seeds 1–240 for story drama -> story/search.csv (~4–5 min)
+python3 sweep/run_sweep.py run    # 17 settings × 60 seeds = 1,020 runs -> sweep/        (~20 min)  
 python3 sweep/run_sweep.py summarize
 ```
 
 - Batch, search and sweep use Python's `multiprocessing` with **4 worker processes** (`POOLS = 4` in `sim.py`, `Pool(4)` in `run_sweep.py`). Prefix with `nice -n 10` to keep your machine responsive.
-- Times measured on an Apple Silicon Mac: one run ≈ 2.5 s, `export` ≈ 5 s, `batch --quick` ≈ 16 s; the full batch and sweep scale from that.
+- Times measured on an Apple Silicon Mac: one run ≈ 2.5 s, `export` ≈ 5 s, `batch --quick` ≈ 16 s; the full 200-run batch ≈ 3.7 min; the 1,020-run sweep ≈ 20 min (estimated from the batch).
 - The sweep never edits `sim.py`: it imports it and overrides constants (`START_GOLD`, `MERC_MAX`, `MERC_GOLD_SHARE`, `ARMY_MAX`, `ARMY_CAP_BASE`, `RECRUIT_P`) inside each worker. Pick settings with `--settings gold_x2,merc_max_1600` and seeds with `--seeds 1-60`.
 - The simulation is deterministic: the same seed always gives the same history.
 </details>
